@@ -1,4 +1,4 @@
-###👋 Hi, I’m Kahfei
+👋 Hi, I’m Kahfei
 
 
 - 😽: I’m currently working on multiple datascience projects
