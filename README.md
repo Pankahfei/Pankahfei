@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pankahfei
+- 👋 Hi, I’m Kahfei
 - 😽: I’m currently working on multiple datascience projects
 - 😸 I’m looking to collaborate on Beginner level project on machine learning.
 - 👻👻 How to reach me : pkfei93@gmail.com or linkedin.com/in/kahfeipan
