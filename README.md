@@ -5,7 +5,7 @@ I am a studnt is General Assembly learning Data Science
 - 😸 I’m also looking to collaborate on Beginner level project on machine learning.
 
 👻👻 How to reach me : 
-- [email[(pkfei93@gmail.com)
+- [email](pkfei93@gmail.com)
 - [linkedin](linkedin.com/in/kahfeipan)
 
 <!---
