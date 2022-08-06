@@ -1,5 +1,5 @@
 👋 Hi, I’m Kahfei
-I am a studnt is General Assembly learning Data Science
+I am a studnt in General Assembly learning Data Science
 
 ---
 
