@@ -6,6 +6,8 @@ I am a studnt in General Assembly learning Data Science
 - 😽: I’m currently working on multiple datascience projects.
 - 😸 I’m also looking to collaborate on Beginner level project on machine learning.
 
+[![KahFei's github stats](https://github-readme-stats.vercel.app/api?username=KahFei&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 👻👻 How to reach me : 
 - [linkedin](https://www.linkedin.com/in/kahfeipan)
 - email: pkfei93@gmail.com
