@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pankahfei
-- 👀 I’m interested in SQL and Python
-- 🌱 I’m currently learning MySQL and Tableau
-- 💞️ I’m looking to collaborate on Beginner level project
+- 🌱 I’m currently working on multiple datascience project
+- 💞️ I’m looking to collaborate on Beginner level project on machine learning.
 - 📫 How to reach me : pkfei93@gmail.com
 
 <!---
